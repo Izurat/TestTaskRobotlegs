@@ -1,0 +1,12 @@
+<flex-config>
+	<compiler>
+	   <define> 
+		  <name>CONFIG::debug</name> 
+		  <value>true</value>
+	   </define>
+	   <define>
+		  <name>CONFIG::release</name> 
+		  <value>false</value>
+	   </define> 
+	</compiler>
+</flex-config>
